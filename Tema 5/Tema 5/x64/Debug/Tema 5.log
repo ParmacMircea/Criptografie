@@ -1,0 +1,16 @@
+﻿  Tema 5.cpp
+C:\Users\Mircea\OneDrive\Desktop\Anul3sem2\Criptografie\Tema 5\Tema 5\crypto.h(254,19): error C3861: 'calcul_matr_inv_Zn': identifier not found
+  (compiling source file 'Tema%205.cpp')
+  
+C:\Users\Mircea\OneDrive\Desktop\Anul3sem2\Criptografie\Tema 5\Tema 5\crypto.h(431,6): error C2084: function 'void decriptareAfinaBloc(std::ifstream &,std::ofstream &)' already has a body
+  (compiling source file 'Tema%205.cpp')
+  C:\Users\Mircea\OneDrive\Desktop\Anul3sem2\Criptografie\Tema 5\Tema 5\crypto.h(223,6):
+  see previous definition of 'decriptareAfinaBloc'
+  
+C:\Users\Mircea\OneDrive\Desktop\Anul3sem2\Criptografie\Tema 5\Tema 5\Tema 5.cpp(55,13): error C2660: 'decriptareAfinaBloc': function does not take 3 arguments
+  C:\Users\Mircea\OneDrive\Desktop\Anul3sem2\Criptografie\Tema 5\Tema 5\crypto.h(431,6):
+  see declaration of 'decriptareAfinaBloc'
+  C:\Users\Mircea\OneDrive\Desktop\Anul3sem2\Criptografie\Tema 5\Tema 5\Tema 5.cpp(55,13):
+  while trying to match the argument list '(std::ifstream, std::ofstream, cheieAfina)'
+  
+C:\Users\Mircea\OneDrive\Desktop\Anul3sem2\Criptografie\Tema 5\Tema 5\Tema 5.cpp(79,5): error C3861: 'spargereVigenere': identifier not found
